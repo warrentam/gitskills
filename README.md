@@ -1,3 +1,1 @@
-Creating a new branch is quick
-Be my balalalala
-
+Creating a new branch is quick and simple.
